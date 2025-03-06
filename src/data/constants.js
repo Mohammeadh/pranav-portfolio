@@ -280,7 +280,7 @@ export const projects = [
     description:
       "To collect tweets from twitter database using snscrape and comments from Instagram database using Apify which is fed as dataset and to detect bullying related texts.",
     image:
-      "https://imgur.com/VlKQd23",
+      "https://i.imgur.com/VlKQd23.png",
     tags: ["NLP", "BiLSTM", "BERT", "Apify"],
     category: "web app",
     github: "https://github.com/Pranav-P108/Cyber-bullying",
