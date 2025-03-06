@@ -10,7 +10,7 @@ export const Bio = {
     "I am an aspiring Data Scientist with a strong foundation in programming, data analysis, and machine learning. With experience in software development and backend systems, I have honed my problem-solving skills and analytical thinking. Currently, I am focused on mastering Data Science, specializing in statistical analysis, machine learning algorithms, and data visualization. Passionate about turning raw data into actionable insights, I strive to develop innovative solutions that drive informed decision-making.",
   github: "https://github.com/Pranav-P108",
   resume:
-    "https://drive.google.com/file/d/1JlQSu0JIuxYRH7XF1JO0Pkt8vGX7FQ81/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1JzHM6o4gI5fE0KypkthupR3sFNNgcVfm/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/pranav-p-it-student-74981b23a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/__mohammedh_",
